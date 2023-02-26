@@ -15,10 +15,10 @@ public class Test {
 //    pet.jump();
 
         Dog dog = new Dog("Kit-Kat");
-//    dog.play();
+    dog.play();
 
         Cat cat = new Cat("Viskas");
-//    cat.sleep();
+    cat.sleep();
 
         System.out.println(dog.paw);
         cat.sleep();
