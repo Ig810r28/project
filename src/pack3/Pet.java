@@ -2,6 +2,7 @@ package pack3;
 
 public class Pet extends Animal {
     public Pet() {
+        super();
         System.out.println("I am pet");
     }
 
